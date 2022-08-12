@@ -1,7 +1,7 @@
 ra1ntool
 
-  - Stable features
+  - features
     • Restore devices
     • SSH Ramdisk checkm8 compatible devices (only iPhone9,3 supported)
-  - Tested on macOS Catalina (10.15).
-  - Supports macOS (El Capitan and up)
+  - tested on macOS Catalina (10.15).
+  - supports macOS (El Capitan and up)
