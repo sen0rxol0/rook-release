@@ -1,4 +1,4 @@
-m8tool
+magk
 
   - features
     • Restore devices
