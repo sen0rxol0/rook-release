@@ -1,1 +1,1 @@
-[magk-v1.0.0-macOS.zip](https://mega.nz/file/DdFC0Daa#lsK6C87r9wzfwe5PBKcJFp_G_nwCdysPHBo5Ub-IVwA) 258,7 MB
+[magk-v1.0.0-macOS.zip](https://mega.nz/file/GN00XZzK#fvyUIWgbV330Bc7Dgoc3rVEQsLBG6WWSlJjp2ko9_RM) 258,7 MB
